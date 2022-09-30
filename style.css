@@ -1,0 +1,73 @@
+* {
+
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+body {
+    font-family: 'News Cycle', sans-serif;
+    font-size: 16px;
+    padding: 20px;
+}
+h1 {
+  
+  margin-bottom: 0;
+  line-height: 0em;
+  text-align: left;
+  float:left;
+
+}
+h2 {
+   line-height: 1em;
+  font-size: 15px;
+  font-weight: 50;
+  color: #666;
+  padding: 0px;
+}
+
+.container {
+  border-top: 5px solid #0974b3;
+  display: flex;
+}
+
+
+
+
+.newton {
+ 
+  height: 250px;
+  width: 200px;
+  padding-right: 20px;
+  float: left;
+  
+  
+  
+}
+
+.albert {
+    margin-top: 20px;
+    float:left;
+    border-top: 5px solid #0974b3;
+    width: 50%;
+}
+
+.tesla {
+
+    
+    
+    border-top: 5px solid #0974b3;
+    margin-top: 20px;
+    display: flex;
+    justify-content: flex-end;
+    
+  
+}
+
+img.newton {
+  display: flex;
+  align-self: flex-start;
+}
+
+.p2 {
+  text-align: center;
+}
